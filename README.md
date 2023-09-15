@@ -8,4 +8,4 @@ was trained on approximately 120,000 examples and was tested on almost 30,000 ex
 
 **NOTE: This project was created for learning purposes and not practical application.**
 
-![feature importance](https://github.com/xPrithvi/COVID-Survival-Model/assets/34770840/ed0b523c-9127-4c66-bf7d-4194b6bc481f)
+![feature importance](https://github.com/xPrithvi/COVID-Survival-Model/assets/34770840/72b19848-29f0-473f-99a1-1c1d0cda8d94)
